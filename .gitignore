@@ -1,0 +1,19 @@
+# Fichiers temporaires et sauvegardes
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Fichiers de logs
+*.log
+
+# Historique du shell
+.history
+.bash_history
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Permissions spécifiques aux scripts
+*.sh~
