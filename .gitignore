@@ -14,6 +14,7 @@
 # Fichiers système
 .DS_Store
 Thumbs.db
+*.temp
 
 # Permissions spécifiques aux scripts
 *.sh~
